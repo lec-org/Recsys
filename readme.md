@@ -1,4 +1,4 @@
-#### how to learn recommend system
+## how to learn recommend system
 
 写在前面：推广搜可能是我们能够深入到人工智能算法领域的一条途径，相较于大模型、具身智能这类方向，他更偏工程应用，对学历学校论文的要求也低了不少，但又能接触到最一线的算法。
 
